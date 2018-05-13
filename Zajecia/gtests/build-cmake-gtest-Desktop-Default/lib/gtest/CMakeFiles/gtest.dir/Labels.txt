@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/gtest
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/gtest.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/gtest-complete.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-install.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-mkdir.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-download.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-update.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-patch.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-configure.rule
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/gtest/src/gtest-stamp/gtest-build.rule

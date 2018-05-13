@@ -1,0 +1,10 @@
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/CMakeFiles/main.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/CMakeFiles/libstuff.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/rebuild_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/edit_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/lib/gtest/CMakeFiles/gtest.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/test/CMakeFiles/rebuild_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/test/CMakeFiles/edit_cache.dir
+/home/user/Zajecia/gtests/build-cmake-gtest-Desktop-Default/test/CMakeFiles/test.dir
